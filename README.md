@@ -1,3 +1,5 @@
+
+
 # pandas-challenge
 
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
@@ -11,7 +13,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 ### ***Instructions***
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
-***Hint: Check out the sample solution called PyCitySchools_starter.ipynb located in the .zip file to review the desired format for this assignment.***
+***Hint: Check out the sample solution called PyCitySchools_starter.ipynb located in the resources folder in this repository, file to review the desired format for this assignment.***
 
 ### District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
@@ -106,6 +108,7 @@ Include the following metrics in the table:
 *% overall passing (the percentage of students who passed math AND reading)
 
 ***Scores by School Size***
+
 Use the following code to bin the per_school_summary.
 
       size_bins = [0, 1000, 2000, 5000]
@@ -115,6 +118,7 @@ Use the following code to bin the per_school_summary.
 *Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
 ***Scores by School Type***
+
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
