@@ -1,3 +1,4 @@
+![Example Image]([https://github.com/your-username/example-repo/blob/main/example-image.jpg](https://github.com/ElenaZ93/pandas-challenge/blob/dbabbfccb0c366ed59bb36717e6c96f381268872/pandas-challenge/education.png))
 
 
 # pandas-challenge
